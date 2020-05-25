@@ -1,7 +1,7 @@
 from selenium import webdriver
 from time import sleep
 
-pw = 'Mydog#123'
+pw = '###########______PW_______HERE############'
 
 class InstaBot:
     def __init__(self, username, pw):
@@ -26,4 +26,4 @@ class InstaBot:
 
 
 
-InstaBot('Open.Sourced', pw)
+InstaBot('############', pw)
